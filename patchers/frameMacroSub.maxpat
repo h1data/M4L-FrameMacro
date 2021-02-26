@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 149.0, 120.0, 362.0, 189.0 ],
+		"rect" : [ 149.0, 120.0, 423.0, 250.0 ],
 		"bgcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -4561,7 +4561,7 @@
 													"numinlets" : 1,
 													"numoutlets" : 3,
 													"outlettype" : [ "", "", "" ],
-													"patching_rect" : [ 168.0, 99.0, 172.0, 18.0 ],
+													"patching_rect" : [ 169.5, 99.0, 172.0, 18.0 ],
 													"text" : "live.path live_set view this_device"
 												}
 
@@ -4640,6 +4640,15 @@
 													"disabled" : 0,
 													"hidden" : 0,
 													"source" : [ "obj-14", 1 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"destination" : [ "obj-9", 0 ],
+													"disabled" : 0,
+													"hidden" : 0,
+													"source" : [ "obj-14", 0 ]
 												}
 
 											}
@@ -7102,30 +7111,30 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-107" : [ "#1-Value9", "Value9", 16 ],
-			"obj-106" : [ "#1-Value10", "Value10", 17 ],
-			"obj-108" : [ "#1-Value8", "Value8", 15 ],
-			"obj-62" : [ "#1-Value4", "Value4", 11 ],
-			"obj-12" : [ "#1-Map", "Map", 0 ],
-			"obj-10" : [ "#1-Value2", "Value2", 9 ],
 			"obj-104" : [ "#1-Value12", "Value12", 19 ],
-			"obj-17" : [ "#1-LoopEnd", "LoopEnd", 6 ],
-			"obj-5" : [ "#1-Min", "Min", 0 ],
-			"obj-14" : [ "#1-Value1", "Value1", 8 ],
-			"obj-24" : [ "#1-BipolarRange", "Biploar", 0 ],
-			"obj-21" : [ "#1-UnipolarRange", "Unipolar", 0 ],
 			"obj-25" : [ "#1-FitRange", "Fit", 0 ],
-			"obj-58" : [ "#1-Value5", "Value5", 12 ],
+			"obj-62" : [ "#1-Value4", "Value4", 11 ],
+			"obj-6" : [ "#1-Max", "Max", 0 ],
 			"obj-40" : [ "#1-Value6", "Value6", 13 ],
 			"obj-34" : [ "#1-Value3", "Value3", 10 ],
-			"obj-22" : [ "#1-live.step", "live.step", 0 ],
-			"obj-1" : [ "#1-Step", "Step", 7 ],
+			"obj-108" : [ "#1-Value8", "Value8", 15 ],
+			"obj-12" : [ "#1-Map", "Map", 0 ],
+			"obj-10" : [ "#1-Value2", "Value2", 9 ],
+			"obj-106" : [ "#1-Value10", "Value10", 17 ],
+			"obj-21" : [ "#1-UnipolarRange", "Unipolar", 0 ],
 			"obj-105" : [ "#1-Value11", "Value11", 18 ],
-			"obj-6" : [ "#1-Max", "Max", 0 ],
+			"obj-5" : [ "#1-Min", "Min", 0 ],
 			"obj-31" : [ "#1-Unmap", "Unmap", 0 ],
 			"obj-16" : [ "#1-Scale", "Scale", 0 ],
+			"obj-22" : [ "#1-live.step", "live.step", 0 ],
+			"obj-17" : [ "#1-LoopEnd", "LoopEnd", 6 ],
+			"obj-58" : [ "#1-Value5", "Value5", 12 ],
+			"obj-14" : [ "#1-Value1", "Value1", 8 ],
+			"obj-24" : [ "#1-BipolarRange", "Biploar", 0 ],
+			"obj-1" : [ "#1-Step", "Step", 7 ],
 			"obj-109" : [ "#1-Value7", "Value7", 14 ],
-			"obj-68" : [ "#1-LoopStart", "LoopEnd", 5 ]
+			"obj-68" : [ "#1-LoopStart", "LoopEnd", 5 ],
+			"obj-107" : [ "#1-Value9", "Value9", 16 ]
 		}
 ,
 		"dependency_cache" : [  ]

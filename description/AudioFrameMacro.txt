@@ -2,16 +2,20 @@ Audio effect device to modulate parameters in low-resolution and PAL/NTSC like i
 Deeply influenced by tracker software and chiptune plugins.
 
 Features
-- Designed to modulate integer parameters such as semitone, octave and waveform types in instrument devices or plugins.
+- Designed to modulate integer parameters such as semitone, octave, and waveform types in instrument devices or plugins.
 - Also able to modulate float-value parameters by scaled values.
 - 4 parameters can be mapped to individual modulations, which sync to the master clock of the device.
 
 The midi effect version (which the author prefers) is below.
 https://maxforlive.com/library/device/6763
 
+Changes in version 1.3.0 (February 26, 2021)
+- Now able to route from 'MIDI To'. (only for Live 11.0 or later) The modulation restarts when the device receives note on like hitting the Resync button.
+- Fixed an issue when automation set to values might be cancelled by changing certain parameters.
+- Fixed an issue when mapping parameters might not work with certain conditions.
+
 Changes in version 1.2.1 (December 13, 2020)
-- Added Live standard loop selector which can adjust start position of the loop.
-- The phase of the master clock restarts by hitting Resync button thus the first frame modulates in proper duration.
-- Fixed the issues when automation set to values might be cancelled by changing certain parameters.
+- Added Live standard loop selector which can adjust the start position of the loop.
+- The phase of the master clock restarts by hitting the Resync button thus the first frame modulates in proper duration.
 
 Check URL for more descriptions.
