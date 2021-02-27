@@ -2,10 +2,13 @@ MIDI effect device to modulate parameters in low-resolution and PAL/NTSC like in
 Deeply influenced by tracker software and chiptune plugins.
 
 Features
-- Designed to modulate integer parameters such as semitone, octave and waveform types in instrument devices or plugins.
+- Designed to modulate integer parameters such as semitone, octave, and waveform types in instrument devices or plugins.
 - Also able to modulate float-value parameters by scaled values.
 - 4 parameters can be mapped to individual modulations, which sync to the master clock of the device.
-- Each modulation restarts in sync with note on. The adjustable loop selector makes effects for attack and long note.
+- Each modulation restarts in sync with note on. The adjustable loop selector makes effects for attack and long notes.
+
+Changes in version 1.0.2 (February 27, 2021)
+- Fixed an issue when mapping parameters might not work with certain conditions.
 
 Changes in version 1.0.1 (December 13, 2020)
 - Fixed the issues when automation set to values might be cancelled and the modulation does not work properly by changing the loop position and slider values even those are different sliders from ones to automate.
