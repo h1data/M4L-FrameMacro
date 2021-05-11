@@ -1,4 +1,4 @@
-Audio effect device to modulate parameters in low-resolution and PAL/NTSC like interlace frame rates.
+Audio effect device to modulate parameters in integer values and PAL/NTSC like interlace frame rates.
 Deeply influenced by tracker software and chiptune plugins.
 
 Features
@@ -9,9 +9,13 @@ Features
 The midi effect version (which the author prefers) is below.
 https://maxforlive.com/library/device/6763
 
+Changes in version 1.3.1 (May 11, 2021)
+- Fixed an issue when sliders before the position of loop start look dark and inactive.
+- Fixed an issue when the values below sliders cannot display properly when the value is -100 or less.
+
 Changes in version 1.3.0 (February 26, 2021)
 - Now able to route from 'MIDI To'. (only for Live 11.0 or later) The modulation restarts when the device receives note on like hitting the Resync button.
-- Fixed an issue when automation set to values might be cancelled by changing certain parameters.
+- Fixed an issue when automation set to values might be canceled by changing certain parameters.
 - Fixed an issue when mapping parameters might not work with certain conditions.
 
 Changes in version 1.2.1 (December 13, 2020)

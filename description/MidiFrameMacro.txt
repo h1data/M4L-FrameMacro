@@ -1,4 +1,4 @@
-MIDI effect device to modulate parameters in low-resolution and PAL/NTSC like interlace frame rates.
+MIDI effect device to modulate parameters in integer values and PAL/NTSC like interlace frame rates.
 Deeply influenced by tracker software and chiptune plugins.
 
 Features
@@ -7,11 +7,16 @@ Features
 - 4 parameters can be mapped to individual modulations, which sync to the master clock of the device.
 - Each modulation restarts in sync with note on. The adjustable loop selector makes effects for attack and long notes.
 
+Changes in version 1.3.1 (May 11, 2021)
+- Fixed an issue when sliders before the position of loop start look dark and inactive.
+- Fixed an issue when the values below sliders cannot display properly when the value is -100 or less.
+- The version number is adapted to AudioFrameMacro, the derived origin device.
+
 Changes in version 1.0.2 (February 27, 2021)
 - Fixed an issue when mapping parameters might not work with certain conditions.
 
 Changes in version 1.0.1 (December 13, 2020)
-- Fixed the issues when automation set to values might be cancelled and the modulation does not work properly by changing the loop position and slider values even those are different sliders from ones to automate.
+- Fixed the issues when automation set to values might be canceled and the modulation does not work properly by changing the loop position and slider values even those are different sliders from ones to automate.
 
 The audio effect version is below. (btw, the author prefers this midi version)
 https://maxforlive.com/library/device/6678
