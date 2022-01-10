@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 149.0, 120.0, 383.0, 210.0 ],
+		"rect" : [ 149.0, 120.0, 1096.0, 541.0 ],
 		"bgcolor" : [ 0.27451, 0.32549, 0.4, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -5223,7 +5223,7 @@
 , 			{
 				"box" : 				{
 					"activebgcolor" : [ 0.74902, 0.74902, 0.74902, 0.0 ],
-					"annotation" : "Value of the 12th frame. The value can exceeds the range set in right side, but the actual modulation value does not.",
+					"annotation" : "Value of the 12th frame. The value can exceed the range set on the right side, but the actual modulation value does not.",
 					"bordercolor" : [ 0.196078, 0.196078, 0.196078, 0.0 ],
 					"focusbordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"fontface" : 0,
@@ -5260,7 +5260,7 @@
 , 			{
 				"box" : 				{
 					"activebgcolor" : [ 0.74902, 0.74902, 0.74902, 0.0 ],
-					"annotation" : "Value of the 11th frame. The value can exceeds the range set in right side, but the actual modulation value does not.",
+					"annotation" : "Value of the 11th frame. The value can exceed the range set on the right side, but the actual modulation value does not.",
 					"bordercolor" : [ 0.196078, 0.196078, 0.196078, 0.0 ],
 					"focusbordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"fontface" : 0,
@@ -5297,7 +5297,7 @@
 , 			{
 				"box" : 				{
 					"activebgcolor" : [ 0.74902, 0.74902, 0.74902, 0.0 ],
-					"annotation" : "Value of the 10th frame. The value can exceeds the range set in right side, but the actual modulation value does not.",
+					"annotation" : "Value of the 10th frame. The value can exceed the range set on the right side, but the actual modulation value does not.",
 					"bordercolor" : [ 0.196078, 0.196078, 0.196078, 0.0 ],
 					"focusbordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"fontface" : 0,
@@ -5334,7 +5334,7 @@
 , 			{
 				"box" : 				{
 					"activebgcolor" : [ 0.74902, 0.74902, 0.74902, 0.0 ],
-					"annotation" : "Value of the 9th frame. The value can exceeds the range set in right side, but the actual modulation value does not.",
+					"annotation" : "Value of the 9th frame. The value can exceed the range set on the right side, but the actual modulation value does not.",
 					"bordercolor" : [ 0.196078, 0.196078, 0.196078, 0.0 ],
 					"focusbordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"fontface" : 0,
@@ -5371,7 +5371,7 @@
 , 			{
 				"box" : 				{
 					"activebgcolor" : [ 0.74902, 0.74902, 0.74902, 0.0 ],
-					"annotation" : "Value of the 8th frame. The value can exceeds the range set in right side, but the actual modulation value does not.",
+					"annotation" : "Value of the 8th frame. The value can exceed the range set on the right side, but the actual modulation value does not.",
 					"bordercolor" : [ 0.196078, 0.196078, 0.196078, 0.0 ],
 					"focusbordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"fontface" : 0,
@@ -5408,7 +5408,7 @@
 , 			{
 				"box" : 				{
 					"activebgcolor" : [ 0.74902, 0.74902, 0.74902, 0.0 ],
-					"annotation" : "Value of the 7th frame. The value can exceeds the range set in right side, but the actual modulation value does not.",
+					"annotation" : "Value of the 7th frame. The value can exceed the range set on the right side, but the actual modulation value does not.",
 					"bordercolor" : [ 0.196078, 0.196078, 0.196078, 0.0 ],
 					"focusbordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"fontface" : 0,
@@ -5985,7 +5985,7 @@
 , 			{
 				"box" : 				{
 					"activebgcolor" : [ 0.74902, 0.74902, 0.74902, 0.0 ],
-					"annotation" : "Value of the 6th frame. The value can exceeds the range set in right side, but the actual modulation value does not.",
+					"annotation" : "Value of the 6th frame. The value can exceed the range set on the right side, but the actual modulation value does not.",
 					"bordercolor" : [ 0.196078, 0.196078, 0.196078, 0.0 ],
 					"focusbordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"fontface" : 0,
@@ -6022,7 +6022,7 @@
 , 			{
 				"box" : 				{
 					"activebgcolor" : [ 0.74902, 0.74902, 0.74902, 0.0 ],
-					"annotation" : "Value of the 5th frame. The value can exceeds the range set in right side, but the actual modulation value does not.",
+					"annotation" : "Value of the 5th frame. The value can exceed the range set on the right side, but the actual modulation value does not.",
 					"bordercolor" : [ 0.196078, 0.196078, 0.196078, 0.0 ],
 					"focusbordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"fontface" : 0,
@@ -6059,7 +6059,7 @@
 , 			{
 				"box" : 				{
 					"activebgcolor" : [ 0.74902, 0.74902, 0.74902, 0.0 ],
-					"annotation" : "Value of the 4th frame. The value can exceeds the range set in right side, but the actual modulation value does not.",
+					"annotation" : "Value of the 4th frame. The value can exceed the range set on the right side, but the actual modulation value does not.",
 					"bordercolor" : [ 0.196078, 0.196078, 0.196078, 0.0 ],
 					"focusbordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"fontface" : 0,
@@ -6096,7 +6096,7 @@
 , 			{
 				"box" : 				{
 					"activebgcolor" : [ 0.74902, 0.74902, 0.74902, 0.0 ],
-					"annotation" : "Value of the 3rd frame. The value can exceeds the range set in right side, but the actual modulation value does not.",
+					"annotation" : "Value of the 3rd frame. The value can exceed the range set on the right side, but the actual modulation value does not.",
 					"bordercolor" : [ 0.196078, 0.196078, 0.196078, 0.0 ],
 					"focusbordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"fontface" : 0,
@@ -6201,7 +6201,7 @@
 , 			{
 				"box" : 				{
 					"activebgcolor" : [ 0.74902, 0.74902, 0.74902, 0.0 ],
-					"annotation" : "Value of the 2nd frame. The value can exceeds the range set in right side, but the actual modulation value does not.",
+					"annotation" : "Value of the 2nd frame. The value can exceed the range set on the right side, but the actual modulation value does not.",
 					"bordercolor" : [ 0.196078, 0.196078, 0.196078, 0.0 ],
 					"focusbordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"fontface" : 0,
@@ -7926,7 +7926,7 @@
 , 			{
 				"box" : 				{
 					"activebgcolor" : [ 0.74902, 0.74902, 0.74902, 0.0 ],
-					"annotation" : "Value of the 1st frame. The value can exceeds the range set in right side, but the actual modulation value does not.",
+					"annotation" : "Value of the 1st frame. The value can exceed the range set on the right side, but the actual modulation value does not.",
 					"bordercolor" : [ 0.196078, 0.196078, 0.196078, 0.0 ],
 					"focusbordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"fontface" : 0,
@@ -9073,31 +9073,31 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-68" : [ "#1-LoopStart", "LoopEnd", 5 ],
+			"obj-73" : [ "#1-LoopSelector", "LoopSelector", 0 ],
+			"obj-58" : [ "#1-Value5", "Value5", 12 ],
+			"obj-6" : [ "#1-Max", "Max", 0 ],
+			"obj-1" : [ "#1-Step", "Step", 7 ],
 			"obj-31" : [ "#1-Unmap", "Unmap", 0 ],
+			"obj-14" : [ "#1-Value1", "Value1", 8 ],
 			"obj-34" : [ "#1-Value3", "Value3", 10 ],
+			"obj-105" : [ "#1-Value11", "Value11", 18 ],
 			"obj-10" : [ "#1-Value2", "Value2", 9 ],
+			"obj-40" : [ "#1-Value6", "Value6", 13 ],
 			"obj-22" : [ "#1-Frames", "Frames", 0 ],
-			"obj-17" : [ "#1-LoopEnd", "LoopEnd", 6 ],
+			"obj-107" : [ "#1-Value9", "Value9", 16 ],
+			"obj-68" : [ "#1-LoopStart", "LoopEnd", 5 ],
+			"obj-25" : [ "#1-FitRange", "Fit", 0 ],
 			"obj-104" : [ "#1-Value12", "Value12", 19 ],
 			"obj-5" : [ "#1-Min", "Min", 0 ],
 			"obj-24" : [ "#1-BipolarRange", "Biploar", 0 ],
-			"obj-109" : [ "#1-Value7", "Value7", 14 ],
-			"obj-6" : [ "#1-Max", "Max", 0 ],
-			"obj-12" : [ "#1-Map", "Map", 0 ],
-			"obj-62" : [ "#1-Value4", "Value4", 11 ],
-			"obj-58" : [ "#1-Value5", "Value5", 12 ],
-			"obj-14" : [ "#1-Value1", "Value1", 8 ],
-			"obj-40" : [ "#1-Value6", "Value6", 13 ],
-			"obj-107" : [ "#1-Value9", "Value9", 16 ],
-			"obj-105" : [ "#1-Value11", "Value11", 18 ],
-			"obj-25" : [ "#1-FitRange", "Fit", 0 ],
-			"obj-73" : [ "#1-LoopSelector", "LoopSelector", 0 ],
 			"obj-108" : [ "#1-Value8", "Value8", 15 ],
-			"obj-1" : [ "#1-Step", "Step", 7 ],
+			"obj-109" : [ "#1-Value7", "Value7", 14 ],
 			"obj-16" : [ "#1-Scale", "Scale", 0 ],
+			"obj-62" : [ "#1-Value4", "Value4", 11 ],
 			"obj-106" : [ "#1-Value10", "Value10", 17 ],
-			"obj-21" : [ "#1-UnipolarRange", "Unipolar", 0 ]
+			"obj-17" : [ "#1-LoopEnd", "LoopEnd", 6 ],
+			"obj-21" : [ "#1-UnipolarRange", "Unipolar", 0 ],
+			"obj-12" : [ "#1-Map", "Map", 0 ]
 		}
 ,
 		"dependency_cache" : [  ]
