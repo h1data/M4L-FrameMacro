@@ -9,20 +9,8 @@ Features
 The midi effect version (which the author prefers) is below.
 https://maxforlive.com/library/device/6763
 
-Changes in version 1.3.2 (January 10, 2022)
-- Fixed grammar mistakes in info view for text boxes.
-
-Changes in version 1.3.1 (May 11, 2021)
-- Fixed an issue when sliders before the position of loop start look dark and inactive.
-- Fixed an issue when the values below sliders cannot display properly when the value is -100 or less.
-
-Changes in version 1.3.0 (February 26, 2021)
-- Now able to route from 'MIDI To'. (only for Live 11.0 or later) The modulation restarts when the device receives note on like hitting the Resync button.
-- Fixed an issue when automation set to values might be canceled by changing certain parameters.
-- Fixed an issue when mapping parameters might not work with certain conditions.
-
-Changes in version 1.2.1 (December 13, 2020)
-- Added Live standard loop selector which can adjust the start position of the loop.
-- The phase of the master clock restarts by hitting the Resync button thus the first frame modulates in proper duration.
+Changes in version 1.3.3 (October 30, 2022)
+- Fixed issues when the device does not display values of sliders properly in Live 10 / Max 8 or later.
+- The Scale Button is now labeled "Scale" instead of "S".
 
 Check URL for more descriptions.
