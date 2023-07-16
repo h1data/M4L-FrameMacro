@@ -12,8 +12,9 @@ Deeply influenced by tracker software and chiptune plugins.
 - 4 parameters can be mapped to individual modulations, which sync to the master clock of the device.
 
 ## Download
-https://maxforlive.com/library/device/6678/audio-frame-macro
-https://maxforlive.com/library/device/6763/midi-frame-macro
+https://maxforlive.com/library/device/6678/audio-frame-macro<br>
+https://maxforlive.com/library/device/6763/midi-frame-macro<br>
+see [Releases](https://github.com/h1data/M4L-frameMacro/releases) section for older version
 
 ## Parameters
 - `ClockMode` Switches the clock rate in Hz or note-related.
