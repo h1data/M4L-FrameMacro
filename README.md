@@ -46,4 +46,4 @@ The mapped parameter name is displayed in right of Unmap button (x).
 - `Unmap` (x) When pressed, cancel the mapping of parameter.
 
 ## Known Issues
-see [Issues](https://github.com/h1data/M4L-frameMacro/issues?q=)
+see the [issue](https://github.com/h1data/M4L-FrameMacro/issues/10)
